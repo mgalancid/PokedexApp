@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "603F6FA2-A1EB-475F-B3BE-5CA50DCB8DB4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75E7D514-B744-4818-A92E-4BF490919BAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokedexApp/PokemonCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "PokemonCellTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "75E7D514-B744-4818-A92E-4BF490919BAE - c98a705c586648e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokedexApp.PokemonCellTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; PokedexApp.PokemonCellTableViewCell"
+                  moduleName = "PokedexApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lgalancid/dev/ios/unittestingswiftlab/PokedexApp/PokedexApp/PokemonCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "75E7D514-B744-4818-A92E-4BF490919BAE - 7b33c5273689c7bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokedexApp.PokemonCellTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; PokedexApp.PokemonCellTableViewCell"
+                  moduleName = "PokedexApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lgalancid/dev/ios/unittestingswiftlab/PokedexApp/PokedexApp/PokemonCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "75E7D514-B744-4818-A92E-4BF490919BAE - 839025ece000edf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokedexApp.PokemonCellTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PokedexApp.PokemonCellTableViewCell&gt;"
+                  moduleName = "PokedexApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lgalancid/dev/ios/unittestingswiftlab/PokedexApp/PokedexApp/PokemonCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "75E7D514-B744-4818-A92E-4BF490919BAE - 1af69c1ca062d5df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokedexApp.PokemonCellTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PokedexApp.PokemonCellTableViewCell&gt;"
+                  moduleName = "PokedexApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lgalancid/dev/ios/unittestingswiftlab/PokedexApp/PokedexApp/PokemonCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "75E7D514-B744-4818-A92E-4BF490919BAE - 80f336344b52d920"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokedexApp.PokemonCellTableViewCell.__deallocating_deinit"
+                  moduleName = "PokedexApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lgalancid/dev/ios/unittestingswiftlab/PokedexApp/PokedexApp/PokemonCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
